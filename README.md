@@ -3,3 +3,21 @@ FurniStore-CVDS-DOSW-01 — Backend académico en Java 17 + Spring Boot para la 
 
 # Autor:
 - Juan Pablo Nieto Cortes
+---
+## diagrama de clases:
+
+![Diagrama de clases.png](docs/uml/Diagrama%20de%20clases.png)
+
+## jacoco
+
+![img.png](docs/imagenes/jacoco.png)
+
+## sonarQube
+
+![img.png](docs/imagenes/sonar.png)
+
+## swagger
+
+![img.png](docs/imagenes/swagger.png)
+
+![img.png](docs/imagenes/info.png)
