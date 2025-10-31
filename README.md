@@ -95,6 +95,6 @@ Fundamento Teórico: Implementa el patrón Builder de GoF, permitiendo la constr
 
 ## swagger
 
-![img.png](docs/imagenes/swagger.png)
+![img.png](docs/imagenes/img.png)
 
-![img.png](docs/imagenes/info.png)
+![img_1.png](docs/imagenes/img_1.png)
